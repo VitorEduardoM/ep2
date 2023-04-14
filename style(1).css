@@ -1,0 +1,77 @@
+/*aqui tem um codigo color*/
+.fauna{
+    color: rgb(0, 0, 0);
+    border: 1px solid black;
+    font-size: 105%;
+/* e uma tag que é usada para definir o estilo da fonte*/
+    font-style: oblique;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 2%;
+    margin-bottom: 1%;
+}
+.jararaca{
+    width: 30%;
+    border: 6px solid rgba(127, 20, 20, 0.856);
+}
+.repteis{
+    color: rgb(0, 0, 0);
+    border: 1px solid black;
+    font-size: 105%;
+    font-style: oblique;
+/*aqui tem uma tag que permite que se faça uma lista de prioridades de familias de fontes */
+    font-family: Arial, Helvetica, sans-serif;
+/*aqui tem uma tag para alterar o tamanho da borda no paragrafo*/
+    margin-bottom: 1%;
+/*aqui tem uma tag que define uma a distância entre o conteúdo de um elemento e suas bordas*/
+    padding: 2%;
+}
+.quati{
+    width: 30%;
+    border: 6px solid rgba(127, 20, 20, 0.856);
+}
+.rodape{
+    background-color: rgb(0, 55, 255);
+    border: 5px solid  black ;
+}
+.planet{
+/*aqui tem um codigo para mexer no tamanho da imagem*/
+     width: 5%;
+}
+.foz{
+/* aqui tem um codigo para mudar a cor dos textos*/
+    color: rgb(107, 107, 229);
+} 
+.header{
+/*aqui tem um codigo para mudar a cor de fundo do site*/
+    background-color: rgb(72, 72, 255);
+    border: 5px solid  black ;
+}
+.onçar{
+    width: 30%;
+}
+.cataratas{
+    width: 40%;
+}
+.rodapey{
+     color: rgb(4, 3, 3);
+     font-size: 100%;
+     font-style: initial;
+     background-color: rgb(0, 55, 255);
+}
+
+.planet{
+    width: 5%;
+}
+.headerp{
+    background-color: rgb(0, 55, 255);
+}
+.florat{
+    font-style: oblique;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 105%;
+}
+.faunag{
+    font-size: 105%;
+    font-style: oblique;
+    font-family: Arial, Helvetica, sans-serif;
+}
